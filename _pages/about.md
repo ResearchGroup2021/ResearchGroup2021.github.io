@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-The energy system is undergoing a significant transition towards 'low-carbon sustainability', characterized by the widespread adoption of renewable energy sources, such as wind and solar power, to replace conventional coal-fired thermal generation. However, the inherent uncertainty and intermittency of renewable generation pose major challenges in achieving a smooth transition. In traditional energy systems, coal-fired plants can be adjusted flexibly to balance demand. In contrast, renewable energy output is heavily influenced by weather conditions, leading to fluctuations that often misalign with energy demands.
+The energy system is undergoing a significant transition towards `low-carbon sustainability`, characterized by the widespread adoption of renewable energy sources, such as wind and solar power, to replace conventional coal-fired thermal generation. However, the inherent uncertainty and intermittency of renewable generation pose major challenges in achieving a smooth transition. In traditional energy systems, coal-fired plants can be adjusted flexibly to balance demand. In contrast, renewable energy output is heavily influenced by weather conditions, leading to fluctuations that often misalign with energy demands.
 
 #Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
