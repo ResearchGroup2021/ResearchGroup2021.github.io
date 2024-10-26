@@ -133,8 +133,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Learning materials # blog_name will be displayed in your blog page
-blog_description: A collection of good learning materials for new graduate students
+blog_name:  # blog_name will be displayed in your blog page
+blog_description:  
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -143,7 +143,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
