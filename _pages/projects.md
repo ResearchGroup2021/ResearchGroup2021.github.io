@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Past and Ongoing Projects of Our Lab
+description: Past and Current Projects of Our Lab
 nav: true
 nav_order: 2
 display_categories: [work, fun]
