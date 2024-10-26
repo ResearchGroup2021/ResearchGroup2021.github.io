@@ -9,7 +9,7 @@ profile:
   image: AI-for-Energy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>AI-Powered Energy Systems</p>
+    #<p>AI-Powered Energy Systems</p>
 
 
 news: true # includes a list of news items
