@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /Team/
 title: Team
-description: Members of our lab
+description: Members of Our Lab
 nav: true
 nav_order: 1
 
