@@ -9,7 +9,7 @@ profile:
   image: AI-for-Energy.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    #<p>AI-Powered Energy Systems</p>
+
 
 
 news: true # includes a list of news items
@@ -19,8 +19,8 @@ social: true # includes social icons at the bottom of the page
 
 The energy system is undergoing a significant transition towards `low-carbon sustainability`, characterized by the widespread adoption of renewable energy sources, such as wind and solar power, to replace conventional coal-fired thermal generation. However, the inherent uncertainty and intermittency of renewable generation pose major challenges in achieving a smooth transition. In traditional energy systems, coal-fired plants can be adjusted flexibly to balance demand. In contrast, renewable energy output is heavily influenced by weather conditions, leading to fluctuations that often misalign with energy demands.
 
-#Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+To address this, our mission is to explore smart coordination between supply and demand, leveraging advanced tools for the intelligent operation of energy systems. Our generation has witnessed rapid advancements in artificial intelligence (AI) technologies, particularly the strong representational capabilities of neural networks, which enable data mining, time-series prediction, decision-making, and the resolution of complex optimization problems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our team is dedicated to investigating the application of `AI technologies` in energy system modeling, optimization, and decision-making, tackling the challenges associated with the transition to a low-carbon energy future.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
